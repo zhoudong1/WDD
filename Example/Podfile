@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'WDD_Example' do
+  pod 'WDD', :path => '../'
+
+  target 'WDD_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
