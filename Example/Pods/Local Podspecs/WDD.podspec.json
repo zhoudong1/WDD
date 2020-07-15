@@ -1,0 +1,22 @@
+{
+  "name": "WDD",
+  "version": "0.1.0",
+  "summary": "A short description of WDD.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhoudong1/WDD",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhoudong1": "2366876104@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/zhoudong1/WDD.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WDD/Classes/**/*"
+}

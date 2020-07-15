@@ -1,0 +1,6 @@
+framework module WDD {
+  umbrella header "WDD-umbrella.h"
+
+  export *
+  module * { export * }
+}
